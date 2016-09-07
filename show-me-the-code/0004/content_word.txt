@@ -1,0 +1,2 @@
+Double-click the MySQL installer package. It will be named according to the MySQL version and the OS X version you have chosen.
+For example, if you have downloaded the package for MySQL 5.6.34 and OS X 10.8, double-click mysql-5.6.34-osx-10.8-x86_64.pkg.
