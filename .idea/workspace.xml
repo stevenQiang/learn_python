@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9835f3a-b6d4-49e0-b472-f81d079899c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0005/b8c3e9c80f115a30573ce6cae71f8e8e.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0005/change_phone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0006/Journal/a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0006/Journal/b.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0006/Journal/c.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0006/change_phone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show-me-the-code/0006/Journal/d.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learn_python.iws" />
@@ -46,14 +49,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="change_phone.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="change_phone.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/show-me-the-code/0005/change_phone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.031185031">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="e#69#78#0" expanded="true" />
+                <element signature="e#79#88#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="change_phone.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/change_phone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6237006">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/c.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="572" selection-start-line="2" selection-start-column="572" selection-end-line="2" selection-end-column="572" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/d.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="510" selection-start-line="2" selection-start-column="510" selection-end-line="2" selection-end-column="510" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/a.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,16 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="random.py" pinned="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -108,6 +141,11 @@
         <option value="$PROJECT_DIR$/show-me-the-code/0004/content_word.txt" />
         <option value="$PROJECT_DIR$/show-me-the-code/0004/len_word.py" />
         <option value="$PROJECT_DIR$/show-me-the-code/0005/change_phone.py" />
+        <option value="$PROJECT_DIR$/show-me-the-code/0006/Journal/a.txt" />
+        <option value="$PROJECT_DIR$/show-me-the-code/0006/Journal/b.txt" />
+        <option value="$PROJECT_DIR$/show-me-the-code/0006/Journal/c.txt" />
+        <option value="$PROJECT_DIR$/show-me-the-code/0006/Journal/d.txt" />
+        <option value="$PROJECT_DIR$/show-me-the-code/0006/change_phone.py" />
       </list>
     </option>
   </component>
@@ -193,25 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="0005" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learn_python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="show-me-the-code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="0000" />
+              <option name="myItemId" value="0006" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,6 +248,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/show-me-the-code" />
       <recent name="$PROJECT_DIR$/show-me-the-code/0005" />
     </key>
   </component>
@@ -579,11 +600,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/show-me-the-code/0005/change_phone.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031185031">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#69#78#0" expanded="true" />
+            <element signature="e#79#88#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4261954">
+          <caret line="441" column="65" selection-start-line="441" selection-start-column="65" selection-end-line="441" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="572" selection-start-line="2" selection-start-column="572" selection-end-line="2" selection-end-column="572" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/d.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="510" selection-start-line="2" selection-start-column="510" selection-end-line="2" selection-end-column="510" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/Journal/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15592515">
+          <caret line="5" column="330" selection-start-line="5" selection-start-column="330" selection-end-line="5" selection-end-column="330" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show-me-the-code/0006/change_phone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6237006">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
