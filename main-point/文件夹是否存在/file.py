@@ -8,4 +8,3 @@ else:
     print "不存在"
     # 创建文件夹
     os.makedirs(file_dir)
-
